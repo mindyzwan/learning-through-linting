@@ -12,8 +12,11 @@ Participants will be able to...
 Clone this repo to your personal computer and open in Visual Studio Code.
 
 ## Resources
+- [Presentation Slides](https://docs.google.com/presentation/d/1xxbYtkfUfVNqOVhNFC04yWkFiyoYcVwR3crfUtZwFtM/edit?usp=sharing)
 - [ESLint Getting Started Guide](https://eslint.org/docs/user-guide/getting-started)
 - [Airbnb Style Guide](https://github.com/airbnb/javascript)
+- [Google Style Guide](google.github.io/styleguide/jsguide.html)
+- [Standard Style Guide](standardjs.com/rules.html)
 
 ## Bonus
 - [Configure Linting on Save with VS Code](https://www.digitalocean.com/community/tutorials/workflow-auto-eslinting)
